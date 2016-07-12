@@ -8,7 +8,7 @@ Setup database/table and php
     - Create a database using the commands in “DatabaseAndTables” file. (simply copy those commands to cmd line of mySQL db)
     - Enter the host, username and password in the index6.php file  and save (on 66th line of index6.php . I.e "host",         "username", "password"). Make sure smart quotes, smart dashes and smart copy/paste are turn off in your text editor.
     - Place the index6.php file in a local address or anywhere else you can access. 
-    -Run QuestionGame.xcodeproj file in xCode. (after unzipping QuestionGame.zip)
+    - Run QuestionGame.xcodeproj file in xCode. (after unzipping QuestionGame.zip)
 
 
 Using app
