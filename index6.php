@@ -63,7 +63,7 @@ class RetrieveAPI
 
 	function __construct()
 	{
-		$this->db = new mysqli("localhost", "root", "SunLotus1!", "Apps");
+		$this->db = new mysqli(“host”, “username”, “password”, "Apps");
 		$this->db->autocommit(FALSE);
 	}
 
