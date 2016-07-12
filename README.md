@@ -13,6 +13,7 @@ Setup database/table and php
 
 Using app
 
+    -Watch sample video.
     -Enter address of index6.php in the address field, or you could also just change the address in the MainAddress.m file before running app (address is located on 35th line of MainAddress.m).
     -Use editor in the app to insert new question and tokens. (see sample.mov video).
     -You can run game by pressing Start on the Main View.
